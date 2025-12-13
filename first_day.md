@@ -3,7 +3,7 @@
 > **Serie:** AWS Zero to Architect  
 > **Nivel:** Principiante  
 > **Tiempo:** 60 minutos  
-> **Prerequisitos:** [Módulo 0 - Setup Seguro de Cuenta AWS](./00-setup-seguro.md)
+> **Prerequisitos:** [Módulo 0 - Setup Seguro de Cuenta AWS](./zero_day.md)
 
 ---
 
